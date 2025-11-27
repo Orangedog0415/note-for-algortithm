@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheatsheet.md",
+                "file": "Gitbash Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown Cheatsheet"
+              "title": "Gitbash Cheatsheet"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "e695f62d3e1ded68",
   "lastOpenFiles": [
+    "Gitbash Cheatsheet.md",
     "Markdown Cheatsheet.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
