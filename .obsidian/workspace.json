@@ -11,14 +11,14 @@
             "id": "e695f62d3e1ded68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Gitbash Cheatsheet.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Gitbash Cheatsheet"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
