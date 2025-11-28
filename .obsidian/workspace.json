@@ -11,22 +11,14 @@
             "id": "16c38069bfb25679",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "未命名看板.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Gitbash Cheatsheet.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "未命名看板"
+              "icon": "lucide-file",
+              "title": "Gitbash Cheatsheet"
             }
           }
         ]
@@ -218,9 +210,9 @@
   },
   "active": "16c38069bfb25679",
   "lastOpenFiles": [
-    "未命名看板.md",
-    "Gitbash Cheatsheet.md",
     "Markdown Cheatsheet.md",
+    "Gitbash Cheatsheet.md",
+    "未命名看板.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "未命名.canvas",
