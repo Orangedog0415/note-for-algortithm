@@ -26,7 +26,7 @@ kanban-plugin: list
 
 ## 算法学习
 
-- [ ] 7.2
+- [ ] 7.2 = 1
 
 
 ## sjs
