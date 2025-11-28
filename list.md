@@ -1,16 +1,16 @@
 ---
+
 kanban-plugin: list
+
 ---
 
 ## 大物
 
-- [ ] 几何光学作业
+- [ ] 小测
 
 
 ## 数据结构作业
 
-- [ ] 树
-- [ ] 图
 
 
 ## 毛概
@@ -29,10 +29,21 @@ kanban-plugin: list
 - [ ] 7.2
 
 
+## sjs
 
+- [ ] 看懂ppt
+
+
+***
+
+## 归档
+
+- [x] 树
+- [x] 图
+- [x] 几何光学作业
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false],"table-sizing":{"lane":269}}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
 ```
 %%

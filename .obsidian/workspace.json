@@ -4,21 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8c655eacadba0eee",
+        "id": "0ed608f08372ca1c",
         "type": "tabs",
         "children": [
           {
-            "id": "16c38069bfb25679",
+            "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": "list.md",
-                "bFile": "list.md",
-                "aRef": ""
+                "file": "list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: list"
+              "icon": "lucide-trello",
+              "title": "list"
             }
           }
         ]
@@ -208,11 +217,12 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "16c38069bfb25679",
+  "active": "818a196d8d2fbc2d",
   "lastOpenFiles": [
     "list.md",
-    "Gitbash Cheatsheet.md",
     "Markdown Cheatsheet.md",
+    "Gitbash Cheatsheet.md",
+    "树.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "未命名.canvas",
