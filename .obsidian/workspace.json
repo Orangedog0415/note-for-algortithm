@@ -11,23 +11,14 @@
             "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "数据结构_7.1-7.8/2.stack/stl栈.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "list"
+              "icon": "lucide-file",
+              "title": "stl栈"
             }
           }
         ]
@@ -219,11 +210,15 @@
   },
   "active": "818a196d8d2fbc2d",
   "lastOpenFiles": [
+    "数据结构_7.1-7.8/1.list/stl链表.md",
+    "数据结构_7.1-7.8/2.stack/stl栈.md",
     "list.md",
+    "数据结构_7.1-7.8/2.stack/postfixExpression.cpp",
+    "数据结构_7.1-7.8/2.stack",
+    "数据结构_7.1-7.8/2",
     "Markdown Cheatsheet.md",
     "Gitbash Cheatsheet.md",
     "树.md",
-    "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "未命名.canvas",
     "数据结构_7.1-7.8/未命名.md",
@@ -240,9 +235,6 @@
     "未命名",
     "2025-11-25.md",
     "创建链接.md",
-    "欢迎.md",
-    "dp",
-    "搜索",
-    "字符串"
+    "欢迎.md"
   ]
 }
