@@ -11,14 +11,14 @@
             "id": "16c38069bfb25679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Gitbash Cheatsheet.md",
-                "mode": "source",
-                "source": false
+                "aFile": "list.md",
+                "bFile": "list.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Gitbash Cheatsheet"
+              "icon": "diff",
+              "title": "Diff: list"
             }
           }
         ]
@@ -210,9 +210,9 @@
   },
   "active": "16c38069bfb25679",
   "lastOpenFiles": [
-    "Markdown Cheatsheet.md",
+    "list.md",
     "Gitbash Cheatsheet.md",
-    "未命名看板.md",
+    "Markdown Cheatsheet.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "未命名.canvas",
