@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "858e99b9b4b245e5",
+        "id": "8c655eacadba0eee",
         "type": "tabs",
         "children": [
           {
-            "id": "e695f62d3e1ded68",
+            "id": "16c38069bfb25679",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "kanban",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "未命名看板.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-trello",
+              "title": "未命名看板"
             }
           }
         ]
@@ -208,14 +216,14 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "e695f62d3e1ded68",
+  "active": "16c38069bfb25679",
   "lastOpenFiles": [
+    "未命名看板.md",
     "Gitbash Cheatsheet.md",
     "Markdown Cheatsheet.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "未命名.canvas",
-    "未命名看板.md",
     "数据结构_7.1-7.8/未命名.md",
     "未命名 1.canvas",
     "未命名.base",
