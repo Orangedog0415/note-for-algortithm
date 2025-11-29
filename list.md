@@ -32,7 +32,7 @@ kanban-plugin: list
 ## sjs
 
 - [ ] 看懂ppt
-- [ ] 周六下午2.30去开会，3#302
+- [ ] 做ppt后半部分
 
 
 ## 志愿
@@ -47,6 +47,7 @@ kanban-plugin: list
 - [x] 树
 - [x] 图
 - [x] 几何光学作业
+- [x] 2025-11-29 16:17 周六下午2.30去开会，3#302
 
 %% kanban:settings
 ```
