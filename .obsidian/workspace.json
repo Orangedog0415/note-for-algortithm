@@ -11,23 +11,13 @@
             "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
                 "file": "list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
+              "icon": "lucide-file",
               "title": "list"
             }
           }
@@ -221,8 +211,14 @@
   "active": "818a196d8d2fbc2d",
   "lastOpenFiles": [
     "数据结构_7.1-7.8/2.stack/stl栈.md",
-    "数据结构_7.1-7.8/1.list/stl链表.md",
     "list.md",
+    "数据结构_7.1-7.8/2.stack/xchgExpression.cpp",
+    "数据结构_7.1-7.8/2.stack/valueOfExpression.cpp",
+    "数据结构_7.1-7.8/2.stack/output/match.exe",
+    "数据结构_7.1-7.8/2.stack/output",
+    "数据结构_7.1-7.8/2.stack/match.cpp",
+    "中国社会各阶级在革命中的地位及作用.md",
+    "数据结构_7.1-7.8/1.list/stl链表.md",
     "数据结构_7.1-7.8/2.stack/postfixExpression.cpp",
     "数据结构_7.1-7.8/2.stack",
     "数据结构_7.1-7.8/2",
@@ -235,14 +231,9 @@
     "未命名 1.canvas",
     "未命名.base",
     "catalog.base",
-    "数据结构_7.1-7.8/catalog.base",
     "数据结构_7.1-7.8/catalog.base.md",
     "数据结构_7.1-7.8/catalog.base.md.md",
-    "canvas.canva",
     "catalog.base.md",
-    "try.base",
-    "新建 文本文档.txt",
-    "未命名",
     "2025-11-25.md",
     "创建链接.md",
     "欢迎.md"
