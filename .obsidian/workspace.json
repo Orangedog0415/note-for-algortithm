@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec942529b813c667",
+        "id": "0ed608f08372ca1c",
         "type": "tabs",
         "children": [
           {
-            "id": "d42fe07a0b24bc35",
+            "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "split-diff-view",
               "state": {
-                "file": "list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-trello",
-              "title": "list"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -166,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "list.md",
+                "file": "数据结构_7.1-7.8/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "list 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -193,18 +183,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "639286cbecac1fac",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "list.md"
-              },
-              "icon": "lucide-info",
-              "title": "list的笔记属性"
             }
           }
         ],
@@ -230,17 +208,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "80837dab3a2971b9",
+  "active": "818a196d8d2fbc2d",
   "lastOpenFiles": [
-    "Gitbash Cheatsheet.md",
     "list.md",
-    "中国社会各阶级在革命中的地位及作用.md",
-    "数据结构_7.1-7.8/2.stack/stl栈.md",
+    "Gitbash Cheatsheet.md",
     "数据结构_7.1-7.8/2.stack/xchgExpression.cpp",
     "数据结构_7.1-7.8/2.stack/valueOfExpression.cpp",
     "数据结构_7.1-7.8/2.stack/output/match.exe",
     "数据结构_7.1-7.8/2.stack/output",
     "数据结构_7.1-7.8/2.stack/match.cpp",
+    "中国社会各阶级在革命中的地位及作用.md",
+    "数据结构_7.1-7.8/2.stack/stl栈.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "数据结构_7.1-7.8/2.stack/postfixExpression.cpp",
     "数据结构_7.1-7.8/2.stack",
