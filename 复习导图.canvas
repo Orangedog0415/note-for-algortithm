@@ -1,13 +1,14 @@
 {
 	"nodes":[
 		{"id":"39cfc6a649aba2b4","type":"text","text":"期末复习","x":-460,"y":-340,"width":250,"height":60},
-		{"id":"85b7ea083bec6beb","x":-460,"y":-280,"width":250,"height":60,"type":"text","text":"完成标记为devault_color"},
-		{"id":"c2e92a8d7bf55cf0","x":-40,"y":-560,"width":250,"height":60,"type":"text","text":"离散数学"},
+		{"id":"85b7ea083bec6beb","type":"text","text":"完成标记为devault_color","x":-460,"y":-280,"width":250,"height":60},
+		{"id":"c2e92a8d7bf55cf0","type":"text","text":"离散数学","x":-40,"y":-560,"width":250,"height":60},
 		{"id":"717d93e0ee702a8c","type":"text","text":"略读背-14周完成","x":280,"y":-860,"width":250,"height":60,"color":"5"},
 		{"id":"c6f1391c3264702a","type":"text","text":"毛概","x":-40,"y":-860,"width":250,"height":60,"color":"1"},
-		{"id":"329b0110004bae9a","x":-40,"y":-500,"width":250,"height":80,"type":"text","text":"复习思路是边做题边复习，因为量太大，以做代背是最好的选择"},
-		{"id":"fb2cecd6ebf0e4c9","x":-40,"y":-420,"width":250,"height":60,"type":"text","text":"每三天复习一章，组合代数结束后每天一章，"},
-		{"id":"b9454ab5cdf162dc","x":-40,"y":-360,"width":250,"height":60,"type":"text","text":"争取在17周开始刷卷子"}
+		{"id":"329b0110004bae9a","type":"text","text":"复习思路是边做题边复习，因为量太大，以做代背是最好的选择","x":-40,"y":-500,"width":250,"height":80},
+		{"id":"fb2cecd6ebf0e4c9","type":"text","text":"每三天复习一章，组合代数结束后每天一章，","x":-40,"y":-420,"width":250,"height":60},
+		{"id":"b9454ab5cdf162dc","type":"text","text":"争取在17周开始刷卷子","x":-40,"y":-360,"width":250,"height":60},
+		{"id":"cce8efbc932e7b9b","x":-40,"y":-180,"width":250,"height":60,"type":"text","text":"大物"}
 	],
 	"edges":[
 		{"id":"dc73f78df765ebc3","fromNode":"39cfc6a649aba2b4","fromSide":"right","toNode":"c6f1391c3264702a","toSide":"left"},
