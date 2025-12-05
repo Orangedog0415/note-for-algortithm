@@ -11,17 +11,26 @@
             "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "复习导图.canvas",
-                "viewState": {
-                  "x": 55.96833330237354,
-                  "y": -333.6988403320313,
-                  "zoom": -0.24329818777253173
+                "file": "list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "复习导图"
+              "icon": "lucide-trello",
+              "title": "list"
             }
           }
         ]
@@ -213,8 +222,10 @@
   },
   "active": "818a196d8d2fbc2d",
   "lastOpenFiles": [
-    "list.md",
+    "Markdown Cheatsheet.md",
     "复习导图.canvas",
+    "Gitbash Cheatsheet.md",
+    "list.md",
     "中国社会各阶级在革命中的地位及作用.md",
     "略读_农村部分_陈俊凯.docx",
     "~WRL0672.tmp",
@@ -226,12 +237,11 @@
     "~$社会各阶级在革命中的地位及作用.docx",
     "中国社会各阶级在革命中的地位及作用.docx",
     "新建 Microsoft Word 文档.docx",
-    "Gitbash Cheatsheet.md",
     "数据结构_7.1-7.8/2.stack/stl栈.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
-    "Markdown Cheatsheet.md",
     "树.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
+    "未命名.canvas",
     "数据结构_7.1-7.8/未命名.md",
     "未命名 1.canvas",
     "数据结构_7.1-7.8/catalog.base.md",

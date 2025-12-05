@@ -8,6 +8,12 @@ kanban-plugin: list
 
 
 
+## 离散数学
+
+- [ ] 作业
+- [ ] 研究zqy作业
+
+
 ## 数据结构作业
 
 
@@ -32,8 +38,14 @@ kanban-plugin: list
 
 ## sjs
 
-- [ ] 看懂ppt 只差卷积层反向传播，有一个问题是卷积层和池化层相邻时该如何反向传播，以及全连接非线性部分是怎么反向传播的来着
-- [ ] 做ppt后半部分 fuck！！！！！！！
+- [ ] 理解反向传播的公式
+- [ ] 准备在周六晚上讲ppt
+
+
+## 比赛
+
+- [ ] CET6准考证
+- [ ] ccac看清楚考点等注意事项
 
 
 ## 志愿
@@ -54,9 +66,11 @@ kanban-plugin: list
 - [ ] 2025-12-01 16:58 读书笔记，全部做完
 - [ ] 2025-12-02 19:21 小测
 - [ ] 2025-12-02 22:18 sec C
+- [ ] 2025-12-05 11:12 做ppt后半部分 fuck！！！！！！！
+- [ ] 2025-12-05 11:12 看懂ppt 只差卷积层反向传播，有一个问题是卷积层和池化层相邻时该如何反向传播，以及全连接非线性部分是怎么反向传播的来着
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
 ```
 %%

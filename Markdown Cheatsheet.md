@@ -77,3 +77,7 @@ ans:CANT, use ***html labels***, just like the under types
 [github](https:github.com)
 
 ---
+$$latex$$
+$latex$
+$$\pi×\pi={\pi}^2$$
+---
