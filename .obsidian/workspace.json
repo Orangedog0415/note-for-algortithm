@@ -26,6 +26,10 @@
                     false,
                     false,
                     false,
+                    false,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -237,10 +241,10 @@
   },
   "active": "82870c8005e94d6f",
   "lastOpenFiles": [
+    "复习导图.canvas",
     "list.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "数据结构_7.1-7.8/2.stack/stl栈.md",
-    "复习导图.canvas",
     "中国社会各阶级在革命中的地位及作用.md",
     "略读_农村部分_陈俊凯.docx",
     "~WRL0672.tmp",

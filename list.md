@@ -12,11 +12,33 @@ kanban-plugin: list
 ## 离散数学
 
 - [ ] 研究zqy作业
+- [ ] 做一遍全部图论的习题
 
 
 ## 数据结构作业
 
-- [ ] 查找作业
+
+
+## 汇编
+
+- [ ] 自搜期末卷
+
+
+## ai课
+
+- [ ] 期末报告
+- [ ] 期末考试
+- [ ] hm4
+
+
+## 大讲堂
+
+- [ ] 准备期末报告
+
+
+## 海洋
+
+- [ ] 和shy准备资料
 
 
 ## 毛概
@@ -27,8 +49,6 @@ kanban-plugin: list
 ## CET6
 
 - [ ] 整理生词
-- [ ] 尝试写一篇作文和翻译
-- [ ] 与ai交流我的文法，并咨记修改意见
 
 
 ## 算法学习
@@ -43,13 +63,10 @@ kanban-plugin: list
 
 ## 比赛
 
-- [ ] CET6准考证
 
 
 ## 志愿
 
-- [ ] 2.30巡馆
-- [ ] 7.30巡馆
 
 
 ## 班委
@@ -78,9 +95,18 @@ kanban-plugin: list
 - [ ] 2025-12-09 17:19 作业
 - [ ] 2025-12-10 15:31 整理波动光学笔记
 - [ ] 2025-12-12 12:03 周一晚上开会
+- [ ] 2025-12-15 15:31 查找作业12.15
+- [ ] 2025-12-15 15:31 尝试写一篇作文和翻译
+- [ ] 2025-12-15 15:31 与ai交流我的文法，并咨记修改意见
+- [ ] 2025-12-15 15:32 CET6准考证
+- [ ] 2025-12-15 15:32 7.30巡馆
+- [ ] 2025-12-15 15:32 2.30巡馆
+- [ ] 2025-12-15 19:17 习题六
+- [ ] 2025-12-15 19:43 光栅衍射笔记整理
+- [ ] 2025-12-16 22:17 复习卷
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
 ```
 %%
