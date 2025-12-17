@@ -25,14 +25,14 @@
             "id": "2076e8fe5bb248ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "数据结构期末/复习清单.md",
-                "mode": "preview",
-                "source": true
+                "aFile": "list.md",
+                "bFile": "list.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "复习清单"
+              "icon": "diff",
+              "title": "Diff: list"
             }
           }
         ],
@@ -239,9 +239,9 @@
   },
   "active": "2076e8fe5bb248ae",
   "lastOpenFiles": [
-    "Gitbash Cheatsheet.md",
     "数据结构期末/复习清单.md",
     "list.md",
+    "Gitbash Cheatsheet.md",
     "数据结构期末",
     "海洋执法",
     "人文大讲堂/A牌记_学习感想.pdf",
