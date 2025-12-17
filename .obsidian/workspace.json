@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82870c8005e94d6f",
+            "id": "818a196d8d2fbc2d",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,10 +17,6 @@
                 "kanbanViewState": {
                   "kanban-plugin": "list",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
                     false,
                     false,
                     false,
@@ -39,7 +35,7 @@
             }
           },
           {
-            "id": "818a196d8d2fbc2d",
+            "id": "d9d5dd0820b48d12",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -84,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#约瑟夫环",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构_7.1-7.8/1.list/stl链表.md",
+                "file": "复习导图.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "stl链表 的反向链接列表"
+              "title": "复习导图 的反向链接列表"
             }
           },
           {
@@ -187,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构_7.1-7.8/未命名.md",
-                "followCursor": false,
+                "file": "复习导图.canvas",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "复习导图 的大纲"
             }
           },
           {
@@ -201,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "复习导图.canvas"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -215,13 +213,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b716f6fb94183c86",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "复习导图.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "复习导图的笔记属性"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,12 +249,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "82870c8005e94d6f",
+  "active": "89093a581ee9ff8f",
   "lastOpenFiles": [
+    "人文大讲堂/A牌记_背诵大纲.md",
+    "人文大讲堂/A牌记_学习感想.md",
+    "人文大讲堂",
+    "新建文件夹",
+    "建图.canvas",
+    "Drawing 2025-12-09 23.46.50.excalidraw.md",
     "复习导图.canvas",
+    "Gitbash Cheatsheet.md",
     "list.md",
-    "数据结构_7.1-7.8/1.list/stl链表.md",
-    "数据结构_7.1-7.8/2.stack/stl栈.md",
+    "Markdown Cheatsheet.md",
     "中国社会各阶级在革命中的地位及作用.md",
     "略读_农村部分_陈俊凯.docx",
     "~WRL0672.tmp",
@@ -254,10 +270,8 @@
     "~WRL0003.tmp",
     "~WRD0002.tmp",
     "~$社会各阶级在革命中的地位及作用.docx",
-    "中国社会各阶级在革命中的地位及作用.docx",
-    "新建 Microsoft Word 文档.docx",
-    "Gitbash Cheatsheet.md",
-    "Markdown Cheatsheet.md",
+    "数据结构_7.1-7.8/2.stack/stl栈.md",
+    "数据结构_7.1-7.8/1.list/stl链表.md",
     "树.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "数据结构_7.1-7.8/未命名.md",
