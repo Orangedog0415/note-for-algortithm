@@ -11,32 +11,34 @@
             "id": "db33354f315c9509",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Gitbash Cheatsheet.md",
-                "mode": "source",
-                "source": false
+                "file": "list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Gitbash Cheatsheet"
-            }
-          },
-          {
-            "id": "2076e8fe5bb248ae",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "list.md",
-                "bFile": "list.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: list"
+              "icon": "lucide-trello",
+              "title": "list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,17 +239,17 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "2076e8fe5bb248ae",
+  "active": "db33354f315c9509",
   "lastOpenFiles": [
-    "数据结构期末/复习清单.md",
-    "list.md",
     "Gitbash Cheatsheet.md",
-    "数据结构期末",
-    "海洋执法",
     "人文大讲堂/A牌记_学习感想.pdf",
     "人文大讲堂/A牌记_背诵大纲.pdf",
-    "人文大讲堂/A牌记_学习感想.md",
     "人文大讲堂/A牌记_背诵大纲.md",
+    "人文大讲堂/A牌记_学习感想.md",
+    "list.md",
+    "数据结构期末/复习清单.md",
+    "数据结构期末",
+    "海洋执法",
     "人文大讲堂",
     "新建文件夹",
     "建图.canvas",
