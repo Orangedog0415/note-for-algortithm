@@ -11,13 +11,32 @@
             "id": "db33354f315c9509",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gitbash Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Gitbash Cheatsheet"
+            }
+          },
+          {
+            "id": "2076e8fe5bb248ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据结构期末/复习清单.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "复习清单"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,27 +237,28 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "db33354f315c9509",
+  "active": "2076e8fe5bb248ae",
   "lastOpenFiles": [
+    "Gitbash Cheatsheet.md",
+    "数据结构期末/复习清单.md",
+    "list.md",
+    "数据结构期末",
+    "海洋执法",
     "人文大讲堂/A牌记_学习感想.pdf",
     "人文大讲堂/A牌记_背诵大纲.pdf",
     "人文大讲堂/A牌记_学习感想.md",
     "人文大讲堂/A牌记_背诵大纲.md",
-    "list.md",
     "人文大讲堂",
     "新建文件夹",
     "建图.canvas",
     "Drawing 2025-12-09 23.46.50.excalidraw.md",
     "复习导图.canvas",
-    "Gitbash Cheatsheet.md",
     "Markdown Cheatsheet.md",
     "中国社会各阶级在革命中的地位及作用.md",
     "略读_农村部分_陈俊凯.docx",
     "~WRL0672.tmp",
     "~WRD0664.tmp",
     "~WRL1235.tmp",
-    "~WRD1223.tmp",
-    "~WRL0003.tmp",
     "数据结构_7.1-7.8/2.stack/stl栈.md",
     "数据结构_7.1-7.8/1.list/stl链表.md",
     "树.md",
