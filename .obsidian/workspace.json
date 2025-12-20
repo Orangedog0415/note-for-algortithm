@@ -11,14 +11,14 @@
             "id": "db33354f315c9509",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-pandoc/styles.css",
-                "bFile": ".obsidian/plugins/obsidian-pandoc/styles.css",
-                "aRef": ""
+                "file": "ai课/期末报告.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: styles.css"
+              "icon": "lucide-file",
+              "title": "期末报告"
             }
           }
         ]
@@ -156,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ai课/期末报告.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "期末报告 的大纲"
             }
           },
           {
@@ -169,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "ai课/期末报告.md"
+              },
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -189,9 +192,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "ai课/期末报告.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "期末报告的笔记属性"
             }
           }
         ],
@@ -219,25 +224,27 @@
   },
   "active": "db33354f315c9509",
   "lastOpenFiles": [
+    "ai课/~WRD0000.tmp",
+    "ai课/~$期末报告.docx",
+    "ai课/期末报告.docx",
+    "ai课/新建 Microsoft Word 文档.docx",
+    "ai课/期末报告.pdf",
+    "list.md",
+    "ai课/期末报告.md",
+    "ai课",
+    "人文大讲堂/B牌记_背诵大纲版.pdf",
+    "人文大讲堂/B牌记_背诵大纲版.md",
+    "人文大讲堂/B.html",
+    "人文大讲堂/新建 文本文档.txt",
     "海洋执法/国际海洋执法课件文字提取.md",
     "海洋执法/~$海洋执法课件文字提取.docx",
     "人文大讲堂/A牌记_背诵大纲.md",
-    "list.md",
     "海洋执法/国际海洋执法课件文字提取.docx",
     "数据结构期末/线性表/list.cpp.md",
-    "数据结构期末/线性表",
-    "人文大讲堂/B牌记_背诵完整版.pdf",
     "人文大讲堂/B牌记_背诵完整版.md",
-    "人文大讲堂/B牌记_背诵大纲版.pdf",
-    "人文大讲堂/B牌记_背诵大纲版.md",
     "Gitbash Cheatsheet.md",
-    "人文大讲堂/A牌记_学习感想.pdf",
-    "人文大讲堂/A牌记_背诵大纲.pdf",
     "人文大讲堂/A牌记_学习感想.md",
     "数据结构期末/复习清单.md",
-    "数据结构期末",
-    "海洋执法",
-    "人文大讲堂",
     "建图.canvas",
     "Drawing 2025-12-09 23.46.50.excalidraw.md",
     "复习导图.canvas",
