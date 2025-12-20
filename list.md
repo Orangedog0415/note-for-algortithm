@@ -28,8 +28,6 @@ kanban-plugin: list
 ## ai课
 
 - [ ] 期末报告
-- [ ] 期末考试
-- [ ] hm4
 
 
 ## 大讲堂

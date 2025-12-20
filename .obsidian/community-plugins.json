@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-pandoc"
 ]
