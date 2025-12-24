@@ -11,31 +11,14 @@
             "id": "db33354f315c9509",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "list.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "数据结构期末/复习清单.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "list"
+              "icon": "lucide-file",
+              "title": "复习清单"
             }
           }
         ]
@@ -239,8 +222,10 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "89093a581ee9ff8f",
+  "active": "db33354f315c9509",
   "lastOpenFiles": [
+    "海洋执法/~$海洋法与海上执法综合复习知识清单.docx",
+    "list.md",
     "~$list.docx",
     "list.docx",
     "海洋执法/国际海洋执法热点考题.md",
@@ -252,11 +237,9 @@
     "海洋执法/国际海洋执法热点考题.docx",
     "海洋执法/未命名.docx",
     "海洋执法/~$海洋执法课件文字提取.docx",
-    "list.md",
     "人文大讲堂/B牌记_背诵完整版.md",
     "人文大讲堂/~$记_背诵完整版.docx",
     "人文大讲堂/B牌记_背诵完整版.docx",
-    "人文大讲堂/B牌记_背诵完整版.pdf",
     "复习导图.canvas",
     "Gitbash Cheatsheet.md",
     "ai课/期末报告.md",
