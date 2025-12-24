@@ -25,20 +25,6 @@ kanban-plugin: list
 
 
 
-## ai课
-
-
-
-## 大讲堂
-
-- [ ] 背诵-每天看一遍，读一遍，周末尝试背一遍
-
-
-## 海洋
-
-- [ ] 准备资料
-
-
 ## 毛概
 
 - [ ] 开始复习：目前进度：略2
@@ -111,9 +97,11 @@ kanban-plugin: list
 - [ ] 2025-12-18 19:15 波动光学2
 - [ ] 2025-12-18 20:19 操了，现在要写1500字
 - [ ] 2025-12-20 18:00 期末报告
+- [ ] 2025-12-24 10:56 准备资料
+- [ ] 2025-12-24 10:56 背诵-每天看一遍，读一遍，周末尝试背一遍
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
 ```
 %%

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "577fe0b9448f8717",
+        "id": "0ed608f08372ca1c",
         "type": "tabs",
         "children": [
           {
-            "id": "db33354f315c9509",
+            "id": "82870c8005e94d6f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -27,15 +27,26 @@
                     false,
                     false,
                     false,
-                    false,
-                    false,
-                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "list"
+            }
+          },
+          {
+            "id": "818a196d8d2fbc2d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "list.md",
+                "bFile": "list.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: list"
             }
           }
         ]
@@ -70,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复习导图.canvas",
+                "file": "数据结构_7.1-7.8/1.list/stl链表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "复习导图 的反向链接列表"
+              "title": "stl链表 的反向链接列表"
             }
           },
           {
@@ -173,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai课/期末报告.md",
-                "followCursor": true,
+                "file": "数据结构_7.1-7.8/未命名.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "期末报告 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -187,9 +198,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "ai课/期末报告.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "脚注"
             }
@@ -203,25 +212,13 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "b716f6fb94183c86",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "ai课/期末报告.md"
-              },
-              "icon": "lucide-info",
-              "title": "期末报告的笔记属性"
-            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,38 +236,35 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "89093a581ee9ff8f",
+  "active": "82870c8005e94d6f",
   "lastOpenFiles": [
-    "~$list.docx",
-    "list.docx",
-    "海洋执法/国际海洋执法热点考题.md",
-    "海洋执法/~WRL0001.tmp",
-    "海洋执法/~WRD0000.tmp",
-    "海洋执法/~$海洋执法热点考题.docx",
     "海洋执法/国际海洋执法课件文字提取.md",
-    "海洋执法/未命名.md",
+    "海洋执法/国际海洋执法课件文字提取.docx",
+    "海洋执法/国际海洋执法热点考题.md",
     "海洋执法/国际海洋执法热点考题.docx",
-    "海洋执法/未命名.docx",
-    "海洋执法/~$海洋执法课件文字提取.docx",
-    "list.md",
-    "人文大讲堂/B牌记_背诵完整版.md",
-    "人文大讲堂/~$记_背诵完整版.docx",
+    "海洋执法",
     "人文大讲堂/B牌记_背诵完整版.docx",
-    "人文大讲堂/B牌记_背诵完整版.pdf",
-    "复习导图.canvas",
-    "Gitbash Cheatsheet.md",
     "ai课/期末报告.md",
-    "人文大讲堂/B牌记_背诵大纲版.md",
-    "人文大讲堂/A牌记_背诵大纲.md",
-    "数据结构期末/线性表/list.cpp.md",
-    "人文大讲堂/A牌记_学习感想.md",
+    "ai课/期末报告.docx",
+    "ai课",
     "数据结构期末/复习清单.md",
-    "建图.canvas",
-    "Drawing 2025-12-09 23.46.50.excalidraw.md",
-    "Markdown Cheatsheet.md",
-    "中国社会各阶级在革命中的地位及作用.md",
-    "数据结构_7.1-7.8/2.stack/stl栈.md",
+    "数据结构期末/线性表/list.cpp.md",
+    "数据结构期末/线性表/list.cpp",
+    "数据结构期末/线性表",
+    "人文大讲堂/B牌记_背诵完整版.pdf",
+    "list.md",
+    "人文大讲堂/B牌记_背诵大纲版.md",
+    "人文大讲堂/B牌记_背诵大纲版.pdf",
+    "人文大讲堂/B牌记_背诵完整版.md",
+    "未命名.md",
+    "人文大讲堂/A牌记_学习感想.md",
+    "人文大讲堂/A牌记_背诵大纲.md",
+    "复习导图.canvas",
     "数据结构_7.1-7.8/1.list/stl链表.md",
+    "数据结构_7.1-7.8/2.stack/stl栈.md",
+    "中国社会各阶级在革命中的地位及作用.md",
+    "Gitbash Cheatsheet.md",
+    "Markdown Cheatsheet.md",
     "树.md",
     "Drawing 2025-11-26 15.07.45.excalidraw.md",
     "数据结构_7.1-7.8/未命名.md",
@@ -279,6 +273,7 @@
     "数据结构_7.1-7.8/catalog.base.md.md",
     "catalog.base.md",
     "2025-11-25.md",
-    "创建链接.md"
+    "创建链接.md",
+    "欢迎.md"
   ]
 }
