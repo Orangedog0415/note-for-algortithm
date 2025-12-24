@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构期末/复习清单.md",
+                "file": "毛概期末/思考题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "复习清单"
+              "title": "思考题"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "/170",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,22 +224,24 @@
   },
   "active": "db33354f315c9509",
   "lastOpenFiles": [
-    "海洋执法/~$海洋法与海上执法综合复习知识清单.docx",
+    "毛概期末/23毛概选择题题库（答案✓）.pdf",
+    "毛概期末/思考题.md",
+    "毛概期末/选择题.md",
+    "毛概期末/~$temp.docx",
+    "毛概期末/temp.docx",
+    "毛概期末/新建 Microsoft Word 文档.docx",
+    "毛概期末/mso4E49.tmp",
+    "毛概期末/mso48AA.tmp",
+    "毛概期末/~$毛概选择题题库（答案✓）.docx",
+    "数据结构期末/复习清单.md",
+    "毛概期末/~$23毛概思考题汇总(2).docx",
+    "毛概期末/2023毛概思考题汇总(2).docx",
+    "毛概期末/23毛概选择题题库（答案✓）.docx",
     "list.md",
-    "~$list.docx",
-    "list.docx",
     "海洋执法/国际海洋执法热点考题.md",
-    "海洋执法/~WRL0001.tmp",
-    "海洋执法/~WRD0000.tmp",
-    "海洋执法/~$海洋执法热点考题.docx",
     "海洋执法/国际海洋执法课件文字提取.md",
     "海洋执法/未命名.md",
-    "海洋执法/国际海洋执法热点考题.docx",
-    "海洋执法/未命名.docx",
-    "海洋执法/~$海洋执法课件文字提取.docx",
     "人文大讲堂/B牌记_背诵完整版.md",
-    "人文大讲堂/~$记_背诵完整版.docx",
-    "人文大讲堂/B牌记_背诵完整版.docx",
     "复习导图.canvas",
     "Gitbash Cheatsheet.md",
     "ai课/期末报告.md",
@@ -247,7 +249,6 @@
     "人文大讲堂/A牌记_背诵大纲.md",
     "数据结构期末/线性表/list.cpp.md",
     "人文大讲堂/A牌记_学习感想.md",
-    "数据结构期末/复习清单.md",
     "建图.canvas",
     "Drawing 2025-12-09 23.46.50.excalidraw.md",
     "Markdown Cheatsheet.md",
@@ -260,8 +261,6 @@
     "未命名 1.canvas",
     "数据结构_7.1-7.8/catalog.base.md",
     "数据结构_7.1-7.8/catalog.base.md.md",
-    "catalog.base.md",
-    "2025-11-25.md",
-    "创建链接.md"
+    "catalog.base.md"
   ]
 }
