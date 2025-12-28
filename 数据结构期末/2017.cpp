@@ -8,34 +8,57 @@ struct node{
 
 //正数尾插，负数头插
 //保留负数的头尾，把负数尾插在正数头
-node* sort_abs(node &L){
-    node *h_posi = nullptr, *t_posi = h_posi,
-         *h_nega = nullptr, *t_nega = h_nega;
-    node *p = L.next;
+void sort_list(struct node *L) {
+    struct node *p = L->next; // 工作指针，用于遍历原链表
+    struct node *q;           // 临时指针，用于保存p的下一个节点
+    
+    struct node *posHead = NULL; // 正数链表的头指针
+    struct node *posTail = NULL; // 正数链表的尾指针
+    struct node *negTail = NULL; // 负数链表的尾指针（即第一个插入的负数）
 
-    while(p != nullptr){
-        if(p->data > 0){
-            if(h_posi == nullptr){
-                h_posi = p;
-                h_posi->next = t_posi;
-            } 
-            else{
-                t_posi->next = p;
-                t_posi = p;
+    // 1. 断开头结点，初始化L为空链表（用于存放负数）
+    L->next = NULL; 
+
+    while (p != NULL) {
+        q = p->next; // 关键：在修改p->next之前，先保存下一个节点，防止断链
+        
+        if (p->data < 0) {
+            // === 负数：头插法 ===
+            // 逻辑：插入到L之后
+            if (L->next == NULL) {
+                // 如果是第一个插入的负数，它将成为负数部分的最后一个节点
+                negTail = p;
             }
-        }
-        else{
-            if(t_nega == nullptr){
-                t_nega = p;
+            p->next = L->next;
+            L->next = p;
+        } 
+        else {
+            // === 正数：尾插法 ===
+            // 逻辑：追加到正数链表末尾
+            if (posHead == NULL) {
+                posHead = p;
+                posTail = p;
+            } else {
+                posTail->next = p;
+                posTail = p;
             }
-            p->next = h_nega;
-            h_nega = p;
+            // 尾插后务必将next置空，防止残留原本的链接
+            posTail->next = NULL; 
         }
-        p = p->next;
+        
+        p = q; // 继续处理下一个节点
     }
 
-    t_nega->next = h_posi;
-    L.next = h_nega;
+    // 2. 连接负数部分和正数部分
+    if (negTail != NULL) {
+        // 如果存在负数，将正数链表接在负数链表的尾部
+        negTail->next = posHead;
+    } else {
+        // 如果没有负数，L直接指向正数链表
+        L->next = posHead;
+    }
+    
+    // 注意：正数链表的尾部 posTail->next 在循环中已经被置为 NULL，无需额外操作
 }
 
 struct BiTnode{
