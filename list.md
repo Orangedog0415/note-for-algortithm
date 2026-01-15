@@ -4,32 +4,6 @@ kanban-plugin: list
 
 ---
 
-## 大物
-
-- [ ] 可以开始写卷子了
-
-
-## 离散数学
-
-- [ ] 写卷子
-
-
-## 数据结构作业
-
-- [ ] 依据重点开始复习-重点在**数据结构期末**文件夹
-
-
-## 汇编
-
-
-
-## 毛概
-
-- [ ] 开始复习：目前进度：略2
-- [ ] 背思考题
-- [ ] 看选择题库
-
-
 ## CET6
 
 - [ ] 整理生词
@@ -43,7 +17,6 @@ kanban-plugin: list
 
 ## sjs
 
-- [ ] 作业1.3
 
 
 ## 比赛
@@ -62,6 +35,12 @@ kanban-plugin: list
 
 ## 归档
 
+- [ ] 2026-01-14 22:24 开始复习：目前进度：略2
+- [ ] 2026-01-14 22:24 背思考题
+- [ ] 2026-01-14 22:24 看选择题库
+- [ ] 2026-01-14 22:24 依据重点开始复习-重点在**数据结构期末**文件夹
+- [ ] 2026-01-14 22:24 写卷子
+- [ ] 2026-01-14 22:24 可以开始写卷子了
 - [x] 树
 - [x] 图
 - [x] 几何光学作业
@@ -98,9 +77,10 @@ kanban-plugin: list
 - [ ] 2025-12-24 10:56 准备资料
 - [ ] 2025-12-24 10:56 背诵-每天看一遍，读一遍，周末尝试背一遍
 - [ ] 2025-12-24 11:03 二元关系习题
+- [ ] 2026-01-14 22:24 作业1.3
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
+{"kanban-plugin":"list","list-collapse":[false,false,false,false,false,false],"table-sizing":{"lane":269},"archive-with-date":true,"move-task-metadata":true,"move-tags":true,"archive-file":"Archive.md","append-archive-date":false,"move-dates":true,"max-archive-size":1000000000}
 ```
 %%
