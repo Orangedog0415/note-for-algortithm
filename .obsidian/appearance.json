@@ -1,4 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": ""
+  "cssTheme": "Phycat",
+  "textFontFamily": "霞鹜文楷",
+  "interfaceFontFamily": ""
 }
