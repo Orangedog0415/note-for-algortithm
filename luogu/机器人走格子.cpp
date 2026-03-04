@@ -9,22 +9,21 @@ struct info{
     int diridx;
 };
 
-enum Direction{
-    S = 0, E = 1, N = 2, W = 3
-};
+int charToDir(char c) {
+    if (c == 'S') return 0;
+    if (c == 'E') return 1;
+    if (c == 'N') return 2;
+    if (c == 'W') return 3;
+    return 0;
+}
 
-int s[55][55];//square
 int p[55][55];//point
 int n, m;
 int dirx[4] = {1, 0, -1, 0};
 int diry[4] = {0, 1, 0, -1};
 //0123:x+,y+,x-,y-
 
-//void dfs(int x, int y, int desx, int desy, int cost, int diridx){
-    //1边界返回
-    //2到达返回
-    //循环，
-//}
+bool vis[55][55][4];
 
 int main(){
     cin >> n >> m;
@@ -41,42 +40,61 @@ int main(){
     int stax, stay, desx, desy, dir;
     char d;
     cin >> stax >> stay >> desx >> desy >> d;
-    dir = (Direction)d;
+    dir = charToDir(d);
 
     queue<info> q;
-    int ans = 0;
-    info start = {stax + 1, stay + 1, 0, dir};
+    int ans = -1;
+    info start = {stax, stay, 0, dir};
     q.push(start);
+    vis[stax][stay][dir] = 1;
+
     while(q.size()){
         info t = q.front(); q.pop();
         
-        if(t.x < 0 || t.y < 0 || t.x > n || t.y > m) continue;
+        if(t.x <= 0 || t.y <= 0 || t.x >= n || t.y >= m) continue;
 
-        if(t.x == desx + 1 && t.y == desy + 1){
+        if(t.x == desx && t.y == desy){
             ans = t.cost;
             break;
         }
 
-        for(int i = 1; i <= 5; i++){
-            info s;
-            if(1 <= i && i <= 3){
-                s = {t.x + i*dirx[t.diridx], t.y + i*diry[t.diridx], t.cost, t.diridx};
-            }
-            else if(i == 4){
-                s = t;
-                s.diridx = (s.diridx + 1) % 4;
-            }
-            else{
-                s = t;
-                s.diridx = (s.diridx + 3) % 4;
-            }
+        for(int i = 1; i <= 3; i++){
+            info s = t;
+            int nx = t.x + i*dirx[t.diridx], ny = t.y + i*diry[t.diridx];
+            if(p[nx][ny] == 1) break;
+            s.x = nx, s.y = ny;
             s.cost++;
-            if(s.x >= 0 && s.y >= 0 && s.x <= n && s.y <= m){
-                q.push(s);
+
+            if(s.x > 0 && s.y > 0 && s.x < n && s.y < m){
+                if(!vis[s.x][s.y][s.diridx]){
+                    q.push(s);
+                    vis[s.x][s.y][s.diridx] = 1;
+                }
             }
         }
+
+        info sdl = t;
+        sdl.diridx = (sdl.diridx + 1) % 4;
+        sdl.cost++;
+        if(sdl.x > 0 && sdl.y > 0 && sdl.x < n && sdl.y < m){
+            if(!vis[sdl.x][sdl.y][sdl.diridx]){
+                q.push(sdl);
+                vis[sdl.x][sdl.y][sdl.diridx] = 1;
+            }
+        }
+
+        info sdr = t;
+        sdr.diridx = (sdr.diridx + 3) % 4;
+        sdr.cost++;
+        if(sdr.x > 0 && sdr.y > 0 && sdr.x < n && sdr.y < m){
+            if(!vis[sdr.x][sdr.y][sdr.diridx]){
+                q.push(sdr);
+                vis[sdr.x][sdr.y][sdr.diridx] = 1;
+            }
+        }
+        
     }
 
-    cout << ans;
+    std::cout << ans;
     
 }
