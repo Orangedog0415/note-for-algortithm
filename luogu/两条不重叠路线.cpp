@@ -9,8 +9,7 @@ int a[N][N];
 int n;
 
 int dfs(int x1, int y1, int x2, int y2){
-    if(x1 < 1 || x2 < 1 || y1 > n || y2 > n) return 0;
-    if(x1 == n && y1 == n && x2 == n && y2 == n) return 0;
+    if(x1 > n || x2 > n || y1 > n || y2 > n) return 0;
     if(dp[x1][y1][x2][y2] != -1) return dp[x1][y1][x2][y2];
 
     int res = 0;
@@ -22,18 +21,20 @@ int dfs(int x1, int y1, int x2, int y2){
 
     res = max(res, dfs(x1, y1+1, x2, y2+1));
 
-    return res + a[x1][y1] + a[x2][y2] - ((x1==x2&&y1==y2)?1:0)*a[x1][y1];//判断一下是否重合
+    return dp[x1][y1][x2][y2] = res + a[x1][y1] + a[x2][y2] - ((x1==x2&&y1==y2)?1:0)*a[x1][y1];//判断一下是否重合
 }
 
 int main(){
     cin >> n;
     int x, y, w;
     cin >> x >> y >> w;
-    while((x == 0 &&  y == 0 && w == 0)){
+    while(!(x == 0 &&  y == 0 && w == 0)){
         a[x][y] = w;
         cin >> x >> y >> w;
     }
 
     memset(dp, -1, sizeof dp);
-    dfs(1, 2, 2, 1);
+    dfs(1, 1, 1, 1);
+
+    cout << dp[1][1][1][1];
 }
